@@ -1,0 +1,67 @@
+#title{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#sortLabel {
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+#filterLabel {
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.DropDown {
+    padding: 3px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#sortByDropDown {
+    font-size: 14px;
+}
+
+#filterByDepartment {
+    font-size: 14px;
+}
+
+#employeeTable {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 105%;
+}
+
+#employeeTable td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#employeeTable tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#ywc { 
+    text-align: center;
+}
+
+#tableHeader {
+    text-align: center;
+    font-weight: 600;
+}
+
+#tableHeader th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: grey;
+    color: white;
+}
+
+#tableBody tr:hover {
+    background-color: #ddd;
+}
+
+div {
+    position: fixed;
+}
