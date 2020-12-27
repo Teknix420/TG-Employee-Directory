@@ -1,4 +1,4 @@
-//Create variable object and store all of the employee information
+//Create variable object and store all of the dummy employee information
 const Employees = [
     {
         id: 1,
@@ -107,4 +107,5 @@ const Employees = [
     }
 ];
 
+// Export the employee information in a variable to be used later
 export default Employees;
